@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Keep on keeping on <MODv>",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2026-02-09T19:31:08.800369Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keep on keeping on <MODv>",
+      "artist": "SawanoHiroyuki",
+      "has_synced": true,
+      "path": "select/01_Keep_on_keeping_on__MODv_SawanoHiroyuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep on keeping on <MODv>",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/02_Keep_on_keeping_on__MODv_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep on keeping on <MODv>",
+      "artist": "SawanoHiroyuki[nZk]:mizuki",
+      "has_synced": true,
+      "path": "select/03_Keep_on_keeping_on__MODv_SawanoHiroyuki[nZk]_mizuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep on keeping on <MODv>",
+      "artist": "SawanoHiroyuki[nZk]:瑞葵",
+      "has_synced": true,
+      "path": "select/04_Keep_on_keeping_on__MODv_SawanoHiroyuki[nZk]_瑞葵.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep on keeping on <MODv>",
+      "artist": "SawanoHiroyuki[nZk] feat. mizuki",
+      "has_synced": true,
+      "path": "select/05_Keep_on_keeping_on__MODv_SawanoHiroyuki[nZk]_feat._mizuki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keep on keeping on <MODv> [ft. mizuki]",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/06_Keep_on_keeping_on__MODv__[ft._mizuki]_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep on keeping on <MODv>",
+      "artist": "Sawano, Hiroyuki, nZk:mizuki",
+      "has_synced": true,
+      "path": "select/07_Keep_on_keeping_on__MODv_Sawano,_Hiroyuki,_nZk_mizuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keep on keeping on <MODv>",
+      "artist": "SawanoHiroyuki[nZk]:mizuki",
+      "has_synced": false,
+      "path": "select/pl_01_Keep_on_keeping_on__MODv_SawanoHiroyuki[nZk]_mizuki.txt"
+    }
+  ]
+}
